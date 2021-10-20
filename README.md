@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @RoubertY
-- 👀 I’m interested in Source Codes
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on Some Projects
+hey i am  young coder who just makes things a lil better
+i liked to make some fnf testing for engines and stuff
 
 <!---
 RoubertY/RoubertY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
